@@ -1,7 +1,7 @@
 # Lab4Web
 Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata kuliah Pemrograman Web
 
-[PRAKTIKUM 4 - PEMROGRAMAN WEB] RANDI SAEPUDIN KUSMAYADI - 311910769
+[PRAKTIKUM 4 - PEMROGRAMAN WEB] RANDI SAEPUDIN KUSMAYADI - 311910769 - TI.19-A3
 
 1. [MEMBUAT BOX ELEMENT] Ini adalah Tampilan Codingan awal dengan membuat dokumen HTML.
 
@@ -46,7 +46,7 @@ Membuat Layout Sederhana
 
 ![Langkah 10](https://user-images.githubusercontent.com/59683573/114729078-dbd18380-9d69-11eb-93b3-ab84efa8118d.png)
 
-11. [MEMBUAT NAVIGASI] Ini adalah tampilan codingan untuk membuat navigasi dengan mengatur navigasi tersebut pada file CSS
+11. [MEMBUAT NAVIGASI] Ini adalah tampilan codingan untuk membuat navigasi dengan mengatur navigasi tersebut pada file CSS.
 
 ![Langkah 11](https://user-images.githubusercontent.com/59683573/114729500-3c60c080-9d6a-11eb-878b-0edf30f5c9f0.png)
 
@@ -62,7 +62,7 @@ Membuat Layout Sederhana
 
 ![Langkah 14](https://user-images.githubusercontent.com/59683573/114730596-35867d80-9d6b-11eb-9868-f982ac3b748a.png)
 
-15. Ini adalah tampilan codingan pada file CSS untuk membuat hero panel dengan mengatur hero tersebut menggunakan code CSS
+15. Ini adalah tampilan codingan pada file CSS untuk membuat hero panel dengan mengatur hero tersebut menggunakan code CSS.
 
 ![Langkah 15](https://user-images.githubusercontent.com/59683573/114731108-aa59b780-9d6b-11eb-9633-9e1b10bf0a4d.png)
 
@@ -82,7 +82,32 @@ Membuat Layout Sederhana
 
 ![Langkah 19](https://user-images.githubusercontent.com/59683573/114813327-183dc780-9ddc-11eb-8fab-0d98b3dfb7c8.png)
 
-20. Selanjutnya buka browser dan refresh kembali.
+20. Hasil/Tampilan ketika dijalankan dibrowser.
 
-![Langkah 20](https://user-images.githubusercontent.com/59683573/114813334-20960280-9ddc-11eb-9c2f-188c072610ab.png)
+![Langkah 20](https://user-images.githubusercontent.com/59683573/114816536-86858880-9de2-11eb-8182-5eb3ac8b9d7a.png)
 
+21. Menambahkan Elemen lainnya pada Main Content.
+
+![Langkah 21](https://user-images.githubusercontent.com/59683573/114816603-ad43bf00-9de2-11eb-9cce-050719e95e47.png)
+
+22. Kemudian tambahkan CSS.
+
+![Langkah 22](https://user-images.githubusercontent.com/59683573/114816659-c8163380-9de2-11eb-9a7a-ddd80c24f4b8.png)
+
+23. Hasil/Tampilan ketika dijalankan dibrowser.
+
+![Langkah 23](https://user-images.githubusercontent.com/59683573/114816712-e54b0200-9de2-11eb-83a7-581af0f05c70.png)
+
+24. [Menambahkan Content Artikel] Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+
+![Langkah 24](https://user-images.githubusercontent.com/59683573/114816778-0a3f7500-9de3-11eb-8da9-af84b58f55c4.png)
+
+25. Kemudian tambahkan CSS.
+
+![Langkah 25](https://user-images.githubusercontent.com/59683573/114816789-16c3cd80-9de3-11eb-99b7-2b78124ddc4d.png)
+
+26. Hasil/Tampilan ketika dijalankan dibrowser.
+
+![Langkah 26](https://user-images.githubusercontent.com/59683573/114816838-2cd18e00-9de3-11eb-9996-848b22908556.png)
+
+[SELESAI]
