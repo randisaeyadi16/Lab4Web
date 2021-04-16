@@ -11,7 +11,7 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
 
 ![Langkah 2](https://user-images.githubusercontent.com/59683573/114726424-96ac5200-9d67-11eb-9619-1037ee6aa3ee.png)
 
-3. [Membuat Box Element] Kemudian tambahkan kode untuk membuat box element dengan tag div dan tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut :
+3. [MEMBUAT BOX ELEMENT] Kemudian tambahkan kode untuk membuat box element dengan tag div dan tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut :
 
 ![Langkah 3](https://user-images.githubusercontent.com/59683573/114726619-bfcce280-9d67-11eb-9bca-5b39a9933766.png)
 
@@ -26,7 +26,6 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
 6. Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat Box Element tersebut yang sudah ditambahkan dengan deklarasi CSS property clearfix, Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
 
 ![Langkah 6](https://user-images.githubusercontent.com/59683573/114727382-5dc0ad00-9d68-11eb-8713-c3839dd7f6f2.png)
-
 
 Membuat Layout Sederhana
 
@@ -70,11 +69,11 @@ Membuat Layout Sederhana
 
 ![Langkah 16](https://user-images.githubusercontent.com/59683573/114731232-c52c2c00-9d6b-11eb-9df9-4fdee5579e35.png)
 
-17. [Mengatur Layout Main dan Sidebar] Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+17. [MENGATUR LAYOUT MAIN DAN SIDEBAR] Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 
 ![Langkah 17](https://user-images.githubusercontent.com/59683573/114813286-fd6b5300-9ddb-11eb-8a39-e490c919da43.png)
 
-18. [Membuat Sidebar Widget] Kemudian selanjutnya menambahkan element lain dalam sidebar.
+18. [MEMBUAT SIDEBAR WIDGET] Ini adalah tampilan codingan untuk membuat sidebar widget pada dokumen HTML dengan menambahkan element lain dalam sidebar.
 
 ![Langkah 18](https://user-images.githubusercontent.com/59683573/114813299-09efab80-9ddc-11eb-9eaa-d6e83cc08c84.png)
 
@@ -82,32 +81,41 @@ Membuat Layout Sederhana
 
 ![Langkah 19](https://user-images.githubusercontent.com/59683573/114813327-183dc780-9ddc-11eb-8fab-0d98b3dfb7c8.png)
 
-20. Hasil/Tampilan ketika dijalankan dibrowser.
+20. Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat tampilan sidebar widget setelah ditambahkan kode css dan elemen lainnya.
 
 ![Langkah 20](https://user-images.githubusercontent.com/59683573/114816536-86858880-9de2-11eb-8182-5eb3ac8b9d7a.png)
 
-21. Menambahkan Elemen lainnya pada Main Content.
+21. [MENAMBAHAKAN ELEMENT SECTION PADA MAIN CONTENT] Ini adalah Tampilan Codingan untuk menambahkan element section pada tag main content di dalam dokumen HTML. element section digunakan untuk mengelompokkan konten/dokumen menjadi beberapa bagian berdasarkan tema atau pokok pikiran masing-masing.
 
 ![Langkah 21](https://user-images.githubusercontent.com/59683573/114816603-ad43bf00-9de2-11eb-9cce-050719e95e47.png)
 
-22. Kemudian tambahkan CSS.
+22. Ini adalah tampilan codingan pada file CSS untuk mengatur element section yang ada pada tag main content dalam dokumen HTML dengan menambahkan CSS box tersebut.
 
 ![Langkah 22](https://user-images.githubusercontent.com/59683573/114816659-c8163380-9de2-11eb-9a7a-ddd80c24f4b8.png)
 
-23. Hasil/Tampilan ketika dijalankan dibrowser.
+23. Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat tampilan Content setelah ditambahkan kode css dan elemen lainnya, Content digunakan untuk memasukan atau menyisipkan sebuah karakter lain ke dalam tag HTML dibagian awal tag (:before) dan bagian akhir tag (:after).
 
 ![Langkah 23](https://user-images.githubusercontent.com/59683573/114816712-e54b0200-9de2-11eb-83a7-581af0f05c70.png)
 
-24. [Menambahkan Content Artikel] Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+24. [MENAMBAHKAN CONTENT ARTIKEL] Ini adalah Tampilan Codingan untuk menambahkan content artikel pada main content di dalam dokumen HTML.
 
 ![Langkah 24](https://user-images.githubusercontent.com/59683573/114816778-0a3f7500-9de3-11eb-8da9-af84b58f55c4.png)
 
-25. Kemudian tambahkan CSS.
+25. Ini adalah tampilan codingan pada file CSS untuk mengatur content artikel tersebut dengam menambahkan code CSS divider dan entry
 
 ![Langkah 25](https://user-images.githubusercontent.com/59683573/114816789-16c3cd80-9de3-11eb-99b7-2b78124ddc4d.png)
 
-26. Hasil/Tampilan ketika dijalankan dibrowser.
+26. Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat tampilan Artikel setelah ditambahkan kode css dan elemen lainnya pada dokumen HTML, Artikel digunakan untuk memberi mark up sebuah independent content, artinya element itu dapat berdiri sendiri sebagai sebuah konten utuh yang tidak terikat dengan konten lain (element lain).
 
 ![Langkah 26](https://user-images.githubusercontent.com/59683573/114816838-2cd18e00-9de3-11eb-9996-848b22908556.png)
 
+PERTANYAAN DAN TUGAS
+
+1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll.
+
+Jawaban :
+
+2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll.
+
+Jawaban :
 [SELESAI]
