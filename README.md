@@ -92,5 +92,18 @@ Membuat Layout Sederhana
 1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll.
    >Jawaban :
    
+   Ini adalah tampilan codingan HTML untuk membuat layout menu about
+   ![Langkah 27](https://user-images.githubusercontent.com/59683573/116352718-cd7e6f80-a81f-11eb-9c18-d08209101b7a.png)
+
+   Ini merupakan layout untuk menu About yang berisi deskripsi, dan portofolio
+   ![Langkah 28](https://user-images.githubusercontent.com/59683573/116352765-e555f380-a81f-11eb-998f-0e7d569efeee.png)
+   
 2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll.
    >Jawaban :
+
+   Ini adalah tampilan codingan HTML untuk membuat layout menu kontak
+   ![Langkah 29](https://user-images.githubusercontent.com/59683573/116352893-0fa7b100-a820-11eb-8e55-930a03ab6ce8.png)
+   
+   Ini merupakan layout untuk menu kontak yang berisi nama, email, dan pesan
+   ![Langkah 30](https://user-images.githubusercontent.com/59683573/116352952-2817cb80-a820-11eb-80be-7b364feada3e.png)
+
