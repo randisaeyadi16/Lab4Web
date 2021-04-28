@@ -1,8 +1,13 @@
 # Lab4Web
 Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata kuliah Pemrograman Web
+- NIM   : 311910769
+- Nama Mahasiswa  : Randi Saepudin Kusmayadi
+- Kelas : TI.19-A3
+- Matakuliah  : Pemrograman Web
+- Dosen Pengampu  : Agung Nugroho, S.Kom., M.Kom.
+- Prodi/Semester  : Teknik Informatika / IV (Empat)
 
-[PRAKTIKUM 4 - PEMROGRAMAN WEB] RANDI SAEPUDIN KUSMAYADI - 311910769 - TI.19-A3
-
+# Laporan Praktikum
 1. [MEMBUAT BOX ELEMENT] Ini adalah Tampilan Codingan awal dengan membuat dokumen HTML.
 
 ![Langkah 1](https://user-images.githubusercontent.com/59683573/114726167-54831080-9d67-11eb-8925-d7ef6efa8797.png)
@@ -109,13 +114,8 @@ Membuat Layout Sederhana
 
 ![Langkah 26](https://user-images.githubusercontent.com/59683573/114816838-2cd18e00-9de3-11eb-9996-848b22908556.png)
 
-PERTANYAAN DAN TUGAS
+# Pertanyaan dan Tugas
 
 1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll.
 
-Jawaban :
-
 2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll.
-
-Jawaban :
-[SELESAI]
